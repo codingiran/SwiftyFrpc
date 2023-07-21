@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "frpclib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/codingiran/FrpcLib.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7838319092f7145821687853406052d367468cb6"
+      }
+    }
+  ],
+  "version" : 2
+}
