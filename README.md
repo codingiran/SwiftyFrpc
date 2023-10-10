@@ -1,3 +1,5 @@
 # SwiftyFrpc
 
-A description of this package.
+Frpc lib for Apple Platform
+
+https://github.com/codingiran/SwiftyFrpc
