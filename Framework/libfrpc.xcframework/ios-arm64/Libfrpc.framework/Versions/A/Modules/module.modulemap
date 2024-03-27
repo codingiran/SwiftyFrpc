@@ -1,8 +1,0 @@
-framework module "Libfrpc" {
-	header "ref.h"
-    header "Libfrp.objc.h"
-    header "Universe.objc.h"
-    header "Libfrpc.h"
-
-    export *
-}
