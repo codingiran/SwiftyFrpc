@@ -5,8 +5,9 @@ import Libfrpc
 #error("SwiftyFrpc doesn't support Swift versions below 5.5.")
 #endif
 
-/// Current SwiftyFrpc version 0.51.3. Necessary since SPM doesn't use dynamic libraries. Plus this will be more accurate.
-let version = "0.51.3"
+/// Current SwiftyFrpc version 0.51.4. Necessary since SPM doesn't use dynamic libraries. Plus this will be more accurate.
+/// ⚠️ frpc 核心依然为 0.51.3，只是更新了 gomobile, 解决 Xcode 15.3 上 "Failed to load Info.plist" 的问题
+let version = "0.51.4"
 
 public enum Frpc {
     /// FRP 版本号
